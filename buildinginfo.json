@@ -1,0 +1,18 @@
+[
+    {
+        "className": "WindTurbine",
+        "name": "Wind Turbine",
+        "description": "wind go woosh",
+        "food": 0,
+        "wood": 0,
+        "stone": 0,
+        "machineParts": 0,
+        "refinedMetal": 0,
+        "computerChips": 0,
+        "knowledge": 0,
+        "category": "Production",
+        "unlockedByDefault": true,
+        "specialInfo": ["rooftop"],
+        "jobs": 2
+    }
+]
